@@ -1,0 +1,44 @@
+{
+    "token": "PUT YOUR TOKEN HERE",
+    "prefix": "vc!",
+    "bot_name": "VC",
+    "main_color": "GREY",
+    "bot_owners": ["814168646556319805" ],
+
+    "anti_bad_word_toggle": true,
+    "anti_bad_words": ["nigger",  "nigga",  "pussy",  "cunt", "retard", "neek"],
+
+    "counter": false,
+    "counter_channel": "ID 1",
+    "counter_number_reach": 5,
+    
+    "blacklisted": ["users_not_found"],
+    "whitelisted": ["814168646556319805"],
+    
+    "ignore_channel_toggle": true,
+    "ignore_channel_id": ["798174351865806918","CHANNEL 2 ID"],
+    
+    "anti_link_toggle": false,
+    "mute_role": "797753839548760085",
+
+    "command_cooldown_toggle": true,
+    "command_cooldown_time": "3",
+    
+    "suggest_system_toggle": true,
+    "suggest_system_channel": "suggest_system_channel",
+    
+    "report_system_toggle": true,
+    "report_system_channel": "report_channel_id",
+    
+    "mod_logs_toggle": false,
+    "mod_logs_channel": "logs_channel",
+    "mod_logs_color": "0xbd1751",
+    
+    "anti_selfbot_toggle": true,
+    "anti_self_bot_message": "Self-Botting is against Discord ToS. You will be reported if this action is repetitive. If this is a false statement, My apologies.",
+
+    
+    "welcome_message_enabled": false,
+    "welcome_message_server": "id",
+    "welcome_message_channel": "id"
+}
